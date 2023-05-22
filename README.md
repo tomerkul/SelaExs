@@ -1,0 +1,2 @@
+# SelaExs
+my python exercises 
