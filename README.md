@@ -10,4 +10,4 @@ Feature 3: An innovative solution that solves complex problems with ease.
 Feature 4: A cutting-edge technology that sets new industry standards.
 Feature 5: An intuitive user interface that provides a seamless experience.
 
-![Logo](https://example.com/images/logo.png)
+![Logo](https://wallpaperset.com/w/full/3/b/9/495554.jpg)
