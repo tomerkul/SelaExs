@@ -9,3 +9,5 @@ Feature 2: A mind-blowing functionality that takes your productivity to new heig
 Feature 3: An innovative solution that solves complex problems with ease.
 Feature 4: A cutting-edge technology that sets new industry standards.
 Feature 5: An intuitive user interface that provides a seamless experience.
+
+![Logo](https://example.com/images/logo.png)
